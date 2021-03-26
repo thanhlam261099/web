@@ -1,4 +1,4 @@
-# Website Ban Hang Online - Nhom 28
+# Website Bán Hàng Online - Nhom 28
 ## Danh sach thanh vien
 * Nguyễn Thành Công: 17DH110705
 * Nguyễn Phan Tài Lộc: 17DH110680
